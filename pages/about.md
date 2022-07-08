@@ -4,7 +4,7 @@ The TIMES-Ireland Model (TIM) produces energy system pathways for energy supply 
 
 Alternatively, TIM can be used to assess the implications of certain policies, namely regulatory or technology target-setting (for example, biofuels blending obligation or sales/stock share target for electric vehicles).
 
-More information on the TIMES model generator and specific information about TIM can be found in the [Documentation](/documentation).
+More information on the TIMES model generator and specific information about TIM can be found in the [Documentation](documentation).
 
 TIM is the successor model to the Irish TIMES Model, which has been developed by the MaREI [Energy Policy and Modelling Group](https://www.marei.ie/energy-policy-modelling/) (EPMG) at University College Cork since 2010 and funded through various projects by the EPA, SEAI, SFI and the NTR Foundation, has played a [significant role](https://www.epa.ie/researchandeducation/research/researchpublications/researchreports/research326.html) in informing the evidence base of Irish climate target setting.
 
@@ -15,7 +15,7 @@ This work is being undertaken as part of a number of research projects, includin
 
 ## Expert review process - March 2021
 
-This webpage represents the first external release of TIM, and includes initial [scenario descriptions](/scenarios), [documentation](/documentation) and [results](/results) for expert review. Please note that these results represent initial, unreviewed results for consultation and they should not be cited or used.
+This webpage represents the first external release of TIM, and includes initial [scenario descriptions](scenarios), [documentation](documentation) and [results](/results) for expert review. Please note that these results represent initial, unreviewed results for consultation and they should not be cited or used.
 
 The purpose of this expert review process in March 2021 is to gain feedback from policy, sectoral and modelling experts, ahead of the first public release of model results in early-May 2021. These will feed into a report outlining net-zero emissions energy system pathways for Ireland in order to inform the achievement of ambitious national decarbonisation targets.
 
