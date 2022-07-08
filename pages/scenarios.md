@@ -18,7 +18,7 @@ Results for five scenarios are presented - one baseline "No Mitigation" scenario
 An additional scenario, the **Low Energy Demand (LED) scenario**, is included which represents the energy sector meeting the CAP2021 objectives through structural changes in energy service demands and de-materialising the economy. Broadly, this encompasses densification of settlement patterns, very significant investment in public transport and walking and cycling transport, and de-materialisation of the economy, which enables large-scale modal shifts in transport, lower heat demand in buildings and lower demands for materials such as cement. A full outline of assumptions for the LED scenario are detailed [here](/scenarios/low-energy-demand).
 
 <p class="text-center">
-<img src="images/emis_cons.png" alt="Figure: Emissions Constraints Applied in TIM" title="Emissions Constraints Applied in TIM" class="img-fluid img-max-width">
+<img src="/images/emis_cons.png" alt="Figure: Emissions Constraints Applied in TIM" title="Emissions Constraints Applied in TIM" class="img-fluid img-max-width">
 </p>
 
 ## Assumptions and constraints
